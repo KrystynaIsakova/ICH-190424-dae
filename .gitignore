@@ -3,3 +3,5 @@
 ecommerce_data/
 ecommerce_data/*
 *.csv
+data/
+data/*
